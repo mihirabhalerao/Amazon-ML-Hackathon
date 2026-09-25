@@ -1,0 +1,38 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Dataset
+dataset/
+processed_data_sample/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
