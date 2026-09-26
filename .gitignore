@@ -7,7 +7,12 @@ ENV/
 # Dataset
 dataset/
 processed_data_sample/
+processed_data/
 
+
+# Older files
+normalization.py
+validation_stage0.py
 
 # Python cache
 __pycache__/
